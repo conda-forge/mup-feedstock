@@ -1,7 +1,7 @@
 About mup-feedstock
 ===================
 
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/mup-feedstock/blob/main/LICENSE.txt)
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/tmp7hxhin1v-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/microsoft/mup
 
@@ -15,8 +15,8 @@ Current build status
 
 <table><tr><td>All platforms:</td>
     <td>
-      <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=17603&branchName=main">
-        <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/mup-feedstock?branchName=main">
+      <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=None&branchName=main">
+        <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/tmp7hxhin1v-feedstock?branchName=main">
       </a>
     </td>
   </tr>
